@@ -1,0 +1,201 @@
+[INFO] Scanning for projects...
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Build Order:
+[INFO] 
+[INFO] springboot-dubbo
+[INFO] springboot-dubbo-api
+[INFO] springboot-dubbo-provide
+[INFO] springboot-dubbo-consume
+Downloading from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/jooq/jooq-codegen-maven/3.9.6/jooq-codegen-maven-3.9.6.pom
+Progress (1): 2.6/3.0 kBProgress (1): 3.0 kB                        Downloaded from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/jooq/jooq-codegen-maven/3.9.6/jooq-codegen-maven-3.9.6.pom (3.0 kB at 1.3 kB/s)
+Downloading from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/jooq/jooq-parent/3.9.6/jooq-parent-3.9.6.pom
+Progress (1): 1.1/9.8 kBProgress (1): 5.2/9.8 kBProgress (1): 9.3/9.8 kBProgress (1): 9.8 kB                        Downloaded from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/jooq/jooq-parent/3.9.6/jooq-parent-3.9.6.pom (9.8 kB at 6.2 kB/s)
+Downloading from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/jooq/jooq-codegen-maven/3.9.6/jooq-codegen-maven-3.9.6.jar
+Progress (1): 2.6/16 kBProgress (1): 6.7/16 kBProgress (1): 9.9/16 kBProgress (1): 13/16 kB Progress (1): 14/16 kBProgress (1): 16 kB                      Downloaded from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/jooq/jooq-codegen-maven/3.9.6/jooq-codegen-maven-3.9.6.jar (16 kB at 5.7 kB/s)
+Downloading from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-antrun-plugin/1.8/maven-antrun-plugin-1.8.pom
+Progress (1): 3.3 kB                    Downloaded from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-antrun-plugin/1.8/maven-antrun-plugin-1.8.pom (3.3 kB at 3.7 kB/s)
+Downloading from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-antrun-plugin/1.8/maven-antrun-plugin-1.8.jar
+Progress (1): 3.1/36 kBProgress (1): 6.6/36 kBProgress (1): 10/36 kB Progress (1): 14/36 kBProgress (1): 17/36 kBProgress (1): 20/36 kBProgress (1): 24/36 kBProgress (1): 27/36 kBProgress (1): 31/36 kBProgress (1): 34/36 kBProgress (1): 36 kB                      Downloaded from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-antrun-plugin/1.8/maven-antrun-plugin-1.8.jar (36 kB at 19 kB/s)
+Downloading from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-assembly-plugin/2.6/maven-assembly-plugin-2.6.pom
+Progress (1): 3.1/16 kBProgress (1): 6.6/16 kBProgress (1): 10/16 kB Progress (1): 14/16 kBProgress (1): 16 kB                      Downloaded from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-assembly-plugin/2.6/maven-assembly-plugin-2.6.pom (16 kB at 15 kB/s)
+Downloading from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-assembly-plugin/2.6/maven-assembly-plugin-2.6.jar
+Progress (1): 3.1/246 kBProgress (1): 6.6/246 kBProgress (1): 10/246 kB Progress (1): 14/246 kBProgress (1): 17/246 kBProgress (1): 20/246 kBProgress (1): 24/246 kBProgress (1): 28/246 kBProgress (1): 32/246 kBProgress (1): 36/246 kBProgress (1): 38/246 kBProgress (1): 42/246 kBProgress (1): 46/246 kBProgress (1): 50/246 kBProgress (1): 52/246 kBProgress (1): 56/246 kBProgress (1): 59/246 kBProgress (1): 63/246 kBProgress (1): 66/246 kBProgress (1): 70/246 kBProgress (1): 74/246 kBProgress (1): 78/246 kBProgress (1): 78/246 kBProgress (1): 83/246 kBProgress (1): 87/246 kBProgress (1): 87/246 kBProgress (1): 91/246 kBProgress (1): 94/246 kBProgress (1): 98/246 kBProgress (1): 101/246 kBProgress (1): 105/246 kBProgress (1): 108/246 kBProgress (1): 112/246 kBProgress (1): 115/246 kBProgress (1): 118/246 kBProgress (1): 122/246 kBProgress (1): 125/246 kBProgress (1): 129/246 kBProgress (1): 132/246 kBProgress (1): 136/246 kBProgress (1): 139/246 kBProgress (1): 143/246 kBProgress (1): 146/246 kBProgress (1): 150/246 kBProgress (1): 153/246 kBProgress (1): 157/246 kBProgress (1): 160/246 kBProgress (1): 164/246 kBProgress (1): 167/246 kBProgress (1): 171/246 kBProgress (1): 174/246 kBProgress (1): 178/246 kBProgress (1): 182/246 kBProgress (1): 186/246 kBProgress (1): 190/246 kBProgress (1): 194/246 kBProgress (1): 197/246 kBProgress (1): 201/246 kBProgress (1): 204/246 kBProgress (1): 208/246 kBProgress (1): 211/246 kBProgress (1): 215/246 kBProgress (1): 218/246 kBProgress (1): 222/246 kBProgress (1): 226/246 kBProgress (1): 230/246 kBProgress (1): 233/246 kBProgress (1): 237/246 kBProgress (1): 240/246 kBProgress (1): 244/246 kBProgress (1): 246 kB                        Downloaded from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-assembly-plugin/2.6/maven-assembly-plugin-2.6.jar (246 kB at 32 kB/s)
+Downloading from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-dependency-plugin/2.10/maven-dependency-plugin-2.10.pom
+Progress (1): 3.1/12 kBProgress (1): 6.6/12 kBProgress (1): 10/12 kB Progress (1): 12 kB                      Downloaded from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-dependency-plugin/2.10/maven-dependency-plugin-2.10.pom (12 kB at 14 kB/s)
+Downloading from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-dependency-plugin/2.10/maven-dependency-plugin-2.10.jar
+Progress (1): 3.1/160 kBProgress (1): 6.6/160 kBProgress (1): 10/160 kB Progress (1): 14/160 kBProgress (1): 17/160 kBProgress (1): 20/160 kBProgress (1): 24/160 kBProgress (1): 28/160 kBProgress (1): 32/160 kBProgress (1): 36/160 kBProgress (1): 40/160 kBProgress (1): 44/160 kBProgress (1): 45/160 kBProgress (1): 48/160 kBProgress (1): 52/160 kBProgress (1): 56/160 kBProgress (1): 60/160 kBProgress (1): 64/160 kBProgress (1): 68/160 kBProgress (1): 68/160 kBProgress (1): 72/160 kBProgress (1): 75/160 kBProgress (1): 79/160 kBProgress (1): 82/160 kBProgress (1): 86/160 kBProgress (1): 89/160 kBProgress (1): 93/160 kBProgress (1): 96/160 kBProgress (1): 100/160 kBProgress (1): 103/160 kBProgress (1): 106/160 kBProgress (1): 110/160 kBProgress (1): 113/160 kBProgress (1): 117/160 kBProgress (1): 120/160 kBProgress (1): 124/160 kBProgress (1): 129/160 kBProgress (1): 133/160 kBProgress (1): 136/160 kBProgress (1): 139/160 kBProgress (1): 143/160 kBProgress (1): 146/160 kBProgress (1): 150/160 kBProgress (1): 154/160 kBProgress (1): 158/160 kBProgress (1): 159/160 kBProgress (1): 160 kB                        Downloaded from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-dependency-plugin/2.10/maven-dependency-plugin-2.10.jar (160 kB at 28 kB/s)
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] Building springboot-dubbo 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.10:tree (default-cli) @ springboot-dubbo ---
+Downloading from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/reporting/maven-reporting-impl/2.2/maven-reporting-impl-2.2.pom
+Progress (1): 3.1/4.7 kBProgress (1): 4.7 kB                        Downloaded from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/reporting/maven-reporting-impl/2.2/maven-reporting-impl-2.2.pom (4.7 kB at 4.1 kB/s)
+Downloading from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-sink-api/1.2/doxia-sink-api-1.2.pom
+Downloaded from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-sink-api/1.2/doxia-sink-api-1.2.pom (0 B at 0 B/s)
+Downloading from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia/1.2/doxia-1.2.pom
+Downloaded from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia/1.2/doxia-1.2.pom (0 B at 0 B/s)
+Downloading from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-logging-api/1.2/doxia-logging-api-1.2.pom
+Downloaded from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-logging-api/1.2/doxia-logging-api-1.2.pom (0 B at 0 B/s)
+Downloading from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-core/1.2/doxia-core-1.2.pom
+Downloaded from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-core/1.2/doxia-core-1.2.pom (0 B at 0 B/s)
+Downloading from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-site-renderer/1.2/doxia-site-renderer-1.2.pom
+Downloaded from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-site-renderer/1.2/doxia-site-renderer-1.2.pom (0 B at 0 B/s)
+Downloading from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-sitetools/1.2/doxia-sitetools-1.2.pom
+Downloaded from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-sitetools/1.2/doxia-sitetools-1.2.pom (0 B at 0 B/s)
+Downloading from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-decoration-model/1.2/doxia-decoration-model-1.2.pom
+Downloaded from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-decoration-model/1.2/doxia-decoration-model-1.2.pom (0 B at 0 B/s)
+Downloading from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-module-xhtml/1.2/doxia-module-xhtml-1.2.pom
+Downloaded from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-module-xhtml/1.2/doxia-module-xhtml-1.2.pom (0 B at 0 B/s)
+Downloading from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-modules/1.2/doxia-modules-1.2.pom
+Downloaded from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-modules/1.2/doxia-modules-1.2.pom (0 B at 0 B/s)
+Downloading from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-module-fml/1.2/doxia-module-fml-1.2.pom
+Downloaded from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-module-fml/1.2/doxia-module-fml-1.2.pom (0 B at 0 B/s)
+Downloading from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/shared/maven-dependency-analyzer/1.6/maven-dependency-analyzer-1.6.pom
+Progress (1): 3.1/5.4 kBProgress (1): 5.4 kB                        Downloaded from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/shared/maven-dependency-analyzer/1.6/maven-dependency-analyzer-1.6.pom (5.4 kB at 7.2 kB/s)
+Downloading from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/ow2/asm/asm/5.0.2/asm-5.0.2.pom
+Progress (1): 1.9 kB                    Downloaded from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/ow2/asm/asm/5.0.2/asm-5.0.2.pom (1.9 kB at 2.3 kB/s)
+Downloading from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/ow2/asm/asm-parent/5.0.2/asm-parent-5.0.2.pom
+Progress (1): 3.1/5.5 kBProgress (1): 5.5 kB                        Downloaded from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/ow2/asm/asm-parent/5.0.2/asm-parent-5.0.2.pom (5.5 kB at 6.6 kB/s)
+Downloading from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/shared/maven-invoker/2.1.1/maven-invoker-2.1.1.pom
+Progress (1): 3.1/5.6 kBProgress (1): 5.6 kB                        Downloaded from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/shared/maven-invoker/2.1.1/maven-invoker-2.1.1.pom (5.6 kB at 5.3 kB/s)
+Downloading from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/reporting/maven-reporting-impl/2.2/maven-reporting-impl-2.2.jar
+Downloading from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-core/1.2/doxia-core-1.2.jar
+Downloading from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/ow2/asm/asm/5.0.2/asm-5.0.2.jar
+Downloading from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/shared/maven-dependency-analyzer/1.6/maven-dependency-analyzer-1.6.jar
+Downloading from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/shared/maven-invoker/2.1.1/maven-invoker-2.1.1.jar
+Downloaded from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/doxia/doxia-core/1.2/doxia-core-1.2.jar (0 B at 0 B/s)
+Progress (1): 2.6/17 kBProgress (2): 2.6/17 kB | 2.6/32 kBProgress (3): 2.6/17 kB | 2.6/32 kB | 3.7/53 kBProgress (4): 2.6/17 kB | 2.6/32 kB | 3.7/53 kB | 3.1/30 kBProgress (4): 3.7/17 kB | 2.6/32 kB | 3.7/53 kB | 3.1/30 kBProgress (4): 3.7/17 kB | 3.7/32 kB | 3.7/53 kB | 3.1/30 kBProgress (4): 3.7/17 kB | 3.7/32 kB | 3.7/53 kB | 5.2/30 kBProgress (4): 7.2/17 kB | 3.7/32 kB | 3.7/53 kB | 5.2/30 kBProgress (4): 7.2/17 kB | 3.7/32 kB | 7.2/53 kB | 5.2/30 kBProgress (4): 11/17 kB | 3.7/32 kB | 7.2/53 kB | 5.2/30 kB Progress (4): 15/17 kB | 3.7/32 kB | 7.2/53 kB | 5.2/30 kBProgress (4): 17 kB | 3.7/32 kB | 7.2/53 kB | 5.2/30 kB   Progress (4): 17 kB | 3.7/32 kB | 11/53 kB | 5.2/30 kB Progress (4): 17 kB | 3.7/32 kB | 11/53 kB | 8.7/30 kB                                                      Downloaded from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/reporting/maven-reporting-impl/2.2/maven-reporting-impl-2.2.jar (17 kB at 6.0 kB/s)
+Progress (3): 3.7/32 kB | 14/53 kB | 8.7/30 kBProgress (3): 3.7/32 kB | 14/53 kB | 12/30 kB Progress (3): 3.7/32 kB | 18/53 kB | 12/30 kBProgress (3): 3.7/32 kB | 18/53 kB | 16/30 kBProgress (3): 3.7/32 kB | 21/53 kB | 16/30 kBProgress (3): 3.7/32 kB | 21/53 kB | 19/30 kBProgress (3): 3.7/32 kB | 25/53 kB | 19/30 kBProgress (3): 3.7/32 kB | 28/53 kB | 19/30 kBProgress (3): 7.2/32 kB | 28/53 kB | 19/30 kBProgress (3): 7.2/32 kB | 28/53 kB | 21/30 kBProgress (3): 11/32 kB | 28/53 kB | 21/30 kB Progress (3): 11/32 kB | 28/53 kB | 25/30 kBProgress (3): 11/32 kB | 28/53 kB | 29/30 kBProgress (3): 11/32 kB | 32/53 kB | 29/30 kBProgress (3): 11/32 kB | 36/53 kB | 29/30 kBProgress (3): 11/32 kB | 40/53 kB | 29/30 kBProgress (3): 11/32 kB | 43/53 kB | 29/30 kBProgress (3): 11/32 kB | 43/53 kB | 30 kB   Progress (3): 11/32 kB | 47/53 kB | 30 kBProgress (3): 11/32 kB | 50/53 kB | 30 kBProgress (3): 11/32 kB | 53 kB | 30 kB   Progress (3): 13/32 kB | 53 kB | 30 kB                                      Downloaded from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/shared/maven-invoker/2.1.1/maven-invoker-2.1.1.jar (30 kB at 5.7 kB/s)
+Downloaded from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/ow2/asm/asm/5.0.2/asm-5.0.2.jar (53 kB at 9.5 kB/s)
+Progress (1): 17/32 kBProgress (1): 21/32 kBProgress (1): 21/32 kBProgress (1): 25/32 kBProgress (1): 28/32 kBProgress (1): 32 kB                      Downloaded from nexus: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/shared/maven-dependency-analyzer/1.6/maven-dependency-analyzer-1.6.jar (32 kB at 3.5 kB/s)
+[INFO] cn.com.do1:springboot-dubbo:pom:1.0-SNAPSHOT
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] Building springboot-dubbo-api 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.10:tree (default-cli) @ springboot-dubbo-api ---
+[INFO] cn.com.do1:springboot-dubbo-api:jar:1.0-SNAPSHOT
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] Building springboot-dubbo-provide 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+Downloading from nexus: http://maven.aliyun.com/nexus/content/groups/public/cn/com/do1/springboot-dubbo-api/1.0-SNAPSHOT/maven-metadata.xml
+Downloading from nexus-public-snapshots: http://maven.aliyun.com/nexus/content/repositories/snapshots/cn/com/do1/springboot-dubbo-api/1.0-SNAPSHOT/maven-metadata.xml
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.10:tree (default-cli) @ springboot-dubbo-provide ---
+[INFO] cn.com.do1:springboot-dubbo-provide:jar:1.0-SNAPSHOT
+[INFO] +- org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE:compile
+[INFO] |  +- org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE:compile
+[INFO] |  |  +- org.springframework.boot:spring-boot:jar:1.5.9.RELEASE:compile
+[INFO] |  |  +- org.springframework.boot:spring-boot-autoconfigure:jar:1.5.9.RELEASE:compile
+[INFO] |  |  +- org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE:compile
+[INFO] |  |  |  +- ch.qos.logback:logback-classic:jar:1.1.11:compile
+[INFO] |  |  |  |  \- ch.qos.logback:logback-core:jar:1.1.11:compile
+[INFO] |  |  |  +- org.slf4j:jcl-over-slf4j:jar:1.7.25:compile
+[INFO] |  |  |  +- org.slf4j:jul-to-slf4j:jar:1.7.25:compile
+[INFO] |  |  |  \- org.slf4j:log4j-over-slf4j:jar:1.7.25:compile
+[INFO] |  |  +- org.springframework:spring-core:jar:4.3.13.RELEASE:compile
+[INFO] |  |  \- org.yaml:snakeyaml:jar:1.17:runtime
+[INFO] |  +- org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.9.RELEASE:compile
+[INFO] |  |  +- org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.23:compile
+[INFO] |  |  |  \- org.apache.tomcat:tomcat-annotations-api:jar:8.5.23:compile
+[INFO] |  |  +- org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.23:compile
+[INFO] |  |  \- org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.23:compile
+[INFO] |  +- org.hibernate:hibernate-validator:jar:5.3.6.Final:compile
+[INFO] |  |  +- javax.validation:validation-api:jar:1.1.0.Final:compile
+[INFO] |  |  +- org.jboss.logging:jboss-logging:jar:3.3.1.Final:compile
+[INFO] |  |  \- com.fasterxml:classmate:jar:1.3.4:compile
+[INFO] |  +- com.fasterxml.jackson.core:jackson-databind:jar:2.8.10:compile
+[INFO] |  |  +- com.fasterxml.jackson.core:jackson-annotations:jar:2.8.0:compile
+[INFO] |  |  \- com.fasterxml.jackson.core:jackson-core:jar:2.8.10:compile
+[INFO] |  +- org.springframework:spring-web:jar:4.3.13.RELEASE:compile
+[INFO] |  |  +- org.springframework:spring-aop:jar:4.3.13.RELEASE:compile
+[INFO] |  |  +- org.springframework:spring-beans:jar:4.3.13.RELEASE:compile
+[INFO] |  |  \- org.springframework:spring-context:jar:4.3.13.RELEASE:compile
+[INFO] |  \- org.springframework:spring-webmvc:jar:4.3.13.RELEASE:compile
+[INFO] |     \- org.springframework:spring-expression:jar:4.3.13.RELEASE:compile
+[INFO] +- cn.com.do1:springboot-dubbo-api:jar:1.0-SNAPSHOT:compile
+[INFO] +- com.alibaba:dubbo:jar:2.5.3:compile
+[INFO] |  +- org.javassist:javassist:jar:3.21.0-GA:compile
+[INFO] |  \- org.jboss.netty:netty:jar:3.2.5.Final:compile
+[INFO] +- org.apache.zookeeper:zookeeper:jar:3.4.6:compile
+[INFO] |  +- org.slf4j:slf4j-api:jar:1.7.25:compile
+[INFO] |  +- log4j:log4j:jar:1.2.16:compile
+[INFO] |  +- jline:jline:jar:0.9.94:compile
+[INFO] |  |  \- junit:junit:jar:4.12:compile
+[INFO] |  |     \- org.hamcrest:hamcrest-core:jar:1.3:compile
+[INFO] |  \- io.netty:netty:jar:3.7.0.Final:compile
+[INFO] \- com.github.sgroschupf:zkclient:jar:0.1:compile
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] Building springboot-dubbo-consume 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.10:tree (default-cli) @ springboot-dubbo-consume ---
+[INFO] cn.com.do1:springboot-dubbo-consume:jar:1.0-SNAPSHOT
+[INFO] +- cn.com.do1:springboot-dubbo-api:jar:1.0-SNAPSHOT:compile
+[INFO] +- org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE:compile
+[INFO] |  +- org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE:compile
+[INFO] |  |  +- org.springframework.boot:spring-boot:jar:1.5.9.RELEASE:compile
+[INFO] |  |  +- org.springframework.boot:spring-boot-autoconfigure:jar:1.5.9.RELEASE:compile
+[INFO] |  |  +- org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE:compile
+[INFO] |  |  |  +- ch.qos.logback:logback-classic:jar:1.1.11:compile
+[INFO] |  |  |  |  \- ch.qos.logback:logback-core:jar:1.1.11:compile
+[INFO] |  |  |  +- org.slf4j:jcl-over-slf4j:jar:1.7.25:compile
+[INFO] |  |  |  +- org.slf4j:jul-to-slf4j:jar:1.7.25:compile
+[INFO] |  |  |  \- org.slf4j:log4j-over-slf4j:jar:1.7.25:compile
+[INFO] |  |  +- org.springframework:spring-core:jar:4.3.13.RELEASE:compile
+[INFO] |  |  \- org.yaml:snakeyaml:jar:1.17:runtime
+[INFO] |  +- org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.9.RELEASE:compile
+[INFO] |  |  +- org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.23:compile
+[INFO] |  |  |  \- org.apache.tomcat:tomcat-annotations-api:jar:8.5.23:compile
+[INFO] |  |  +- org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.23:compile
+[INFO] |  |  \- org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.23:compile
+[INFO] |  +- org.hibernate:hibernate-validator:jar:5.3.6.Final:compile
+[INFO] |  |  +- javax.validation:validation-api:jar:1.1.0.Final:compile
+[INFO] |  |  +- org.jboss.logging:jboss-logging:jar:3.3.1.Final:compile
+[INFO] |  |  \- com.fasterxml:classmate:jar:1.3.4:compile
+[INFO] |  +- com.fasterxml.jackson.core:jackson-databind:jar:2.8.10:compile
+[INFO] |  |  +- com.fasterxml.jackson.core:jackson-annotations:jar:2.8.0:compile
+[INFO] |  |  \- com.fasterxml.jackson.core:jackson-core:jar:2.8.10:compile
+[INFO] |  +- org.springframework:spring-web:jar:4.3.13.RELEASE:compile
+[INFO] |  |  +- org.springframework:spring-aop:jar:4.3.13.RELEASE:compile
+[INFO] |  |  +- org.springframework:spring-beans:jar:4.3.13.RELEASE:compile
+[INFO] |  |  \- org.springframework:spring-context:jar:4.3.13.RELEASE:compile
+[INFO] |  \- org.springframework:spring-webmvc:jar:4.3.13.RELEASE:compile
+[INFO] |     \- org.springframework:spring-expression:jar:4.3.13.RELEASE:compile
+[INFO] +- com.alibaba:dubbo:jar:2.5.3:compile
+[INFO] |  +- org.javassist:javassist:jar:3.21.0-GA:compile
+[INFO] |  \- org.jboss.netty:netty:jar:3.2.5.Final:compile
+[INFO] +- org.apache.zookeeper:zookeeper:jar:3.4.6:compile
+[INFO] |  +- org.slf4j:slf4j-api:jar:1.7.25:compile
+[INFO] |  +- org.slf4j:slf4j-log4j12:jar:1.7.25:compile
+[INFO] |  +- log4j:log4j:jar:1.2.16:compile
+[INFO] |  +- jline:jline:jar:0.9.94:compile
+[INFO] |  |  \- junit:junit:jar:4.12:compile
+[INFO] |  |     \- org.hamcrest:hamcrest-core:jar:1.3:compile
+[INFO] |  \- io.netty:netty:jar:3.7.0.Final:compile
+[INFO] +- com.github.sgroschupf:zkclient:jar:0.1:compile
+[INFO] \- org.springframework.boot:spring-boot-configuration-processor:jar:1.5.9.RELEASE:compile
+[INFO]    \- com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1:compile
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Summary:
+[INFO] 
+[INFO] springboot-dubbo ................................... SUCCESS [ 19.037 s]
+[INFO] springboot-dubbo-api ............................... SUCCESS [  0.051 s]
+[INFO] springboot-dubbo-provide ........................... SUCCESS [  0.563 s]
+[INFO] springboot-dubbo-consume ........................... SUCCESS [  0.128 s]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 46.776 s
+[INFO] Finished at: 2017-12-11T09:14:22+08:00
+[INFO] Final Memory: 30M/222M
+[INFO] ------------------------------------------------------------------------
+Microsoft Windows [°æ±¾ 10.0.10240]
+(c) 2015 Microsoft Corporation. All rights reserved.
+
+E:\workspace\springboot-dubbo>E:\workspace\springboot-dubbo>E:\workspace\springboot-dubbo>E:\workspace\springboot-dubbo>E:\workspace\springboot-dubbo>E:\workspace\springboot-dubbo>E:\workspace\springboot-dubbo>
