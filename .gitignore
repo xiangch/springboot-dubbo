@@ -1,0 +1,13 @@
+classes/
+.idea/
+target/
+.classpath
+.project
+.settings/
+*.swf
+*.air
+*.ipa
+*.apk
+*.class
+*.iml
+*.log
